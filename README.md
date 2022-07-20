@@ -1,6 +1,7 @@
 **Welcome to the Issue Tracker for Turnt Up Tower Defense**
 
-Note that the best place to have active discussions with the community regarding the game.
+Note that the best place to participate in discussions with the community regarding the game is in our discord!
+
 This issue tracker is for reporting unintended behavior in the webapp and game as a whole, or suggest specific improvements which would alleviate an issue.
 
 *Guidelines for reporting a bug:*
