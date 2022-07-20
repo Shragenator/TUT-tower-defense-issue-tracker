@@ -3,7 +3,7 @@
 Note that this is not a place to have discussions about the game.  Our discord is a great place for that!
 This issue tracker is for reporting unintended behavior in the webapp and game as a whole, or suggest specific improvements which would alleviate an issue.
 
-*Steps for reporting a bug:*
+*Guidelines for reporting a bug:*
 
 1. Search to see if your issue has already been reported
 2. If someone has reported the same issue or a similar issue, feel free to leave aditional details in the comments
