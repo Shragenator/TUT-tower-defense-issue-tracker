@@ -4,6 +4,8 @@ Note that the best place to participate in discussions with the community regard
 
 This issue tracker is for reporting unintended behavior in the webapp and game as a whole, or suggest specific improvements which would alleviate an issue.
 
+
+
 *Guidelines for reporting a bug:*
 
 1. Search to see if your issue has already been reported
