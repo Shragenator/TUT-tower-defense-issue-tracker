@@ -1,4 +1,4 @@
-**Welcome to the issue tracker**
+**Welcome to the Issue Tracker for Turnt Up Tower Defense**
 
 *Steps for reporting a bug:*
 
